@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Erick Cho](https://github.com/ec3566)  
-[Ahmed Omar](https://github.com/ahmed-o-324)  
+[Erick Cho](https://github.com/ec3566)
 [Micheal Lin](https://github.com/freerainboxbox)  
+[Ahmed Omar](https://github.com/ahmed-o-324)  
 [Henry Wang](https://github.com/fishlesswater)  
 
 ## Stakeholders
