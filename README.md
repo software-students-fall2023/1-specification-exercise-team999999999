@@ -53,6 +53,36 @@ Acceptance criteria:
 4. Information is saved to the server.
 5. If enough changes are indicated by users, the location's information is updated for all users of the app (with a confidence score).
 
+
+### As a business, I want to update my location's accessibility information so I can attract more people to my place of business.
+Estimation of effort: L  
+Acceptance criteria:
+1. Proof of ownership must be captured.
+2. Ownership must be verified.
+3. Business is now prompted to adjust and change its accessibility information as they please.
+4. Information is uploaded to the server and weighted more than anonymous users.
+
+
+### As a user, I want to share a location's accessibility availability to my friends and family so I can help them get somewhere.
+Estimation of effort: L 
+Acceptance criteria:  
+1. Location's accessibility information is displayed for the user.
+2. User clicks a share button.
+3. A menu pops up with links to relevant social media platforms where the user can share the information.
+4. A premade message listing the accessibility information of the location is sent through the social media of choice.
+
+### As a user, I want to be guided through a route so I can get to where I need to go.
+Estimation of effort: L  
+Acceptance criteria:
+1. User's starting point is captured and saved.
+2. User's destination is captured and saved.
+3. Server checks user's accessibility preferences.
+4. A route is generated for the user.
+5. User clicks "Start Route".
+6. User is guided through the route, with voice if indiciated that it is necessary.
+7. User reaches their destination and a pop up asking about the accuracy of the accessibility information is raised.
+8. User answer is captured and saved, and any errors noted.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
