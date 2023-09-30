@@ -11,11 +11,18 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+#### Stakeholder: Jae Yoon 
+##### Goals:  
+1. To get where they need to go with consideration for their handicap.
+2. Find out how accessible the location they wanted to visit was.
+3. Route planner that takes into account their specific handicap.
+##### Concerns:
+1. Accuracy of the accessibility information.
+2. State of the amenities.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A crowdsourced accessibility focused navigation app where users can tailor routes to accomodate for their specific needs and collectively update a location's accessibility information.
 
 ## User Requirements
 
