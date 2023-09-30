@@ -64,7 +64,7 @@ Acceptance criteria:
 
 
 ### As a user, I want to share a location's accessibility availability to my friends and family so I can help them get somewhere.
-Estimation of effort: L 
+Estimation of effort: L  
 Acceptance criteria:  
 1. Location's accessibility information is displayed for the user.
 2. User clicks a share button.
