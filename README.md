@@ -27,7 +27,7 @@ A crowdsourced accessibility focused navigation app where users can tailor route
 ## User Requirements
 
 ### As a user, I want to filter for restaurants that are wheelchair accessible so I can go out with my friends.
-Estimation of effort: L
+Estimation of effort: L  
 Acceptance criteria:
 1. User's accessibility needs are available to be selected.
 2. User's accessibility profile is saved.
@@ -36,7 +36,7 @@ Acceptance criteria:
 
 
 ### As a user, I want to plot a route for the visually impaired so I can more easily make my way to my destination.
-Estimation of effort: M
+Estimation of effort: M  
 Acceptance criteria:
 1. User's starting point is captured and saved.
 2. User's destination is captured and saved.
@@ -45,7 +45,7 @@ Acceptance criteria:
 
 
 ### As a user, I want to update a location's accessibility information so I can contribute to the app (this one needs better wording)
-Estimation of effort: L
+Estimation of effort: L  
 Acceptance criteria:
 1. An "update location amenities" button is visible.
 2. A menu pops up when the button is pressed.
