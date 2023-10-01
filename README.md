@@ -84,7 +84,7 @@ Acceptance criteria:
 8. User answer is captured and saved, and any errors noted.
 
 ### As a beta tester, I want to be able to conveniently report usage issues, errors, and miscellaneous feedback to the developers.
-Estimation of effort: M
+Estimation of effort: M  
 Acceptance criteria:
 1. Beta builds should automatically include screens for reporting functionality. This should be incorporated into the build workflow.
 2. Users must be presented with a disclaimer regarding anonymous system information reporting (e.g. OS, build number, hardware).
