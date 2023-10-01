@@ -83,6 +83,15 @@ Acceptance criteria:
 7. User reaches their destination and a pop up asking about the accuracy of the accessibility information is raised.
 8. User answer is captured and saved, and any errors noted.
 
+### As a beta tester, I want to be able to conveniently report usage issues, errors, and miscellaneous feedback to the developers.
+Estimation of effort: M
+Acceptance criteria:
+1. Beta builds should automatically include screens for reporting functionality. This should be incorporated into the build workflow.
+2. Users must be presented with a disclaimer regarding anonymous system information reporting (e.g. OS, build number, hardware).
+3. The main reporting interface should present a dropdown menu to allow for quick categorization of issues.
+4. Beta testers should be able to provide details and screenshots after selecting a category.
+5. An internal issue tracker should automatically be updated with beta issue tickets, including all gathered telemetry info.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
