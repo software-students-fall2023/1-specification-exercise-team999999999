@@ -118,7 +118,10 @@ Acceptance criteria:
 
 ## Activity Diagrams
 
+As a user, I want to plot a route for the visually impaired so I can more easily make my way to my destination.  
 ![Basics of Finding Directions](images/Basics_of_Finding_Directions.svg)
+
+As a user, I want to update a location's accessibility information so I can contribute to the app.  
 ![Location Reporting Process](images/Location_Reporting_Process.svg)
 
 ## Clickable Prototype
