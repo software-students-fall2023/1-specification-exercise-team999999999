@@ -92,6 +92,32 @@ Acceptance criteria:
 4. Beta testers should be able to provide details and screenshots after selecting a category.
 5. An internal issue tracker should automatically be updated with beta issue tickets, including all gathered telemetry info.
 
+### As a user with cognitive impairment, I want to receive notifications about service disruptions on my planned route so that I can adjust my travel plans accordingly.
+Estimation of effort: M
+Acceptance criteria:
+1. Users with cognitive impairments can set preferences for receiving notifications about service disruptions.
+2. If a disruption occurs on the planned route, clear and simple notifications are sent to aid users in adjusting travel plans.
+3. The notifications include information about the disruption and suggest alternative routes if available.
+4. When the services are restored, user should be notified again.
+
+### As a user with limited vision and hearing, I want the app to consider elevators and escalators' status in train stations so that I can navigate with confidence.
+Estimation of effort: M
+Acceptance criteria:
+1. Users with limited vision and hearing can filter routes based on the status of elevators and escalators for added confidence in their navigation.
+2. Elevator and escalator information is presented with clear and contrasting visuals for users with limited vision.
+3. If an elevator or escalator is out of order, the app suggests alternative accessible routes and provides clear audio notifications for users with limited hearing.
+4. Users can easily report the status of elevators and escalators to contribute to real-time updates, improving experiences from others.
+
+### As a user who moves with a wheelchair and prefers to know about accessible entrances, I want to receive specific details about entrances with ramps or elevators near my destination so that I can plan my journey effectively.
+
+Estimation of effort: L
+Acceptance criteria:
+1. Users who move with a wheelchair can input mobility preferences, indicating the need for information about accessible entrances with ramps or elevators.
+2. The app considers the user's accessibility profile, providing detailed information about entrances with ramps or elevators which is specified to each possible entrance of subway.
+3. This information should be easily accessible by any means.
+
+
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
