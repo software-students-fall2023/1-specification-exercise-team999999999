@@ -116,11 +116,10 @@ Acceptance criteria:
 2. The app considers the user's accessibility profile, providing detailed information about entrances with ramps or elevators which is specified to each possible entrance of subway.
 3. This information should be easily accessible by any means.
 
-
-
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Basics of Finding Directions](images/Basics_of_Finding_Directions.svg)
+![Location Reporting Process](images/Location_Reporting_Process.svg)
 
 ## Clickable Prototype
 
