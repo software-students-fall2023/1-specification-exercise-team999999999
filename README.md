@@ -126,4 +126,5 @@ As a user, I want to update a location's accessibility information so I can cont
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/file/xHPudwTWogFcHleOjrzoAN/Project_%231_Clickable?type=design&node-id=1%3A2&mode=design&t=Fmmv1Fzs8vp2x7t8-1
+
