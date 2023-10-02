@@ -16,9 +16,12 @@ A little exercise to get started with the specification phase of the software de
 1. To get where they need to go with consideration for their handicap.
 2. Find out how accessible the location they wanted to visit was.
 3. Route planner that takes into account their specific handicap.
-##### Concerns:
-1. Accuracy of the accessibility information.
-2. State of the amenities.
+4. Provide up-to-date information on amenities.
+##### Frustrations:
+1. Inaccurate of the accessibility information.
+2. State of the amenities often changes.
+3. User Interface is too complex, filled with extra functionality.
+4. Limited customization in route planning.
 
 ## Product Vision Statement
 
@@ -26,7 +29,7 @@ A crowdsourced accessibility focused navigation app where users can tailor route
 
 ## User Requirements
 
-### As a user, I want to filter for restaurants that are wheelchair accessible so I can go out with my friends.
+### As a user with mobility challenges, I want to filter for restaurants that are wheelchair accessible so I can go out with my friends.
 Estimation of effort: L  
 Acceptance criteria:
 1. User's accessibility needs are available to be selected.
@@ -35,7 +38,7 @@ Acceptance criteria:
 4. All restaurants that are wheelchair accessible are displayed.
 
 
-### As a user, I want to plot a route for the visually impaired so I can more easily make my way to my destination.
+### As a visually imparied user, I want to plot a route for the visually impaired so I can more easily make my way to my destination.
 Estimation of effort: M  
 Acceptance criteria:
 1. User's starting point is captured and saved.
@@ -44,7 +47,7 @@ Acceptance criteria:
 4. If a complete route cannot be made, sections without amenities are indicated.
 
 
-### As a user, I want to update a location's accessibility information so I can contribute to the app (this one needs better wording)
+### As a enthusiastic user, I want to contribute to the app by updating accessibility information for locations so that I can play a part in ensuring the accuracy of details and improve the experience for others with similar accessibility needs.
 Estimation of effort: L  
 Acceptance criteria:
 1. An "update location amenities" button is visible.
@@ -54,7 +57,7 @@ Acceptance criteria:
 5. If enough changes are indicated by users, the location's information is updated for all users of the app (with a confidence score).
 
 
-### As a business, I want to update my location's accessibility information so I can attract more people to my place of business.
+### As a business owner, I want to update my location's accessibility information so I can attract more people to my place of business.
 Estimation of effort: L  
 Acceptance criteria:
 1. Proof of ownership must be captured.
@@ -63,7 +66,7 @@ Acceptance criteria:
 4. Information is uploaded to the server and weighted more than anonymous users.
 
 
-### As a user, I want to share a location's accessibility availability to my friends and family so I can help them get somewhere.
+### As a user who has disabled friends, I want to share a location's accessibility availability to my friends and family so I can help them get somewhere.
 Estimation of effort: L  
 Acceptance criteria:  
 1. Location's accessibility information is displayed for the user.
@@ -71,7 +74,7 @@ Acceptance criteria:
 3. A menu pops up with links to relevant social media platforms where the user can share the information.
 4. A premade message listing the accessibility information of the location is sent through the social media of choice.
 
-### As a user, I want to be guided through a route so I can get to where I need to go.
+### As a navigation-dependent user, I want to be guided through a route so I can get to where I need to go.
 Estimation of effort: L  
 Acceptance criteria:
 1. User's starting point is captured and saved.
