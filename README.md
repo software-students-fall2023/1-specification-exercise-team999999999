@@ -127,7 +127,9 @@ As a user, I want to plot a route for the visually impaired so I can more easily
 As a user, I want to update a location's accessibility information so I can contribute to the app.  
 ![Location Reporting Process](images/Location_Reporting_Process.svg)
 
-## Clickable Prototype
+## Wireframe Diagrams
+https://www.figma.com/file/exWYt1xgK8mOxnW5ceDw85/Low-fid-Wireframe-Draft-(Community)?type=whiteboard&node-id=0%3A1&t=Fmmv1Fzs8vp2x7t8-1
 
+## Clickable Prototype
 https://www.figma.com/file/xHPudwTWogFcHleOjrzoAN/Project_%231_Clickable?type=design&node-id=1%3A2&mode=design&t=Fmmv1Fzs8vp2x7t8-1
 
